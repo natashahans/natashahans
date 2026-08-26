@@ -1,36 +1,16 @@
-<h1 align="center">Natasha Hans</h1>
+# Hey, I'm Natasha 👋
 
-<p align="center">
-  <b>Designing ideas. Building them for the web.</b>
-</p>
+I like building things for the web and making them look good.
 
-<p align="center">
-  I enjoy creating digital experiences that are simple, thoughtful, and easy to use.
-</p>
+Still learning, experimenting, and figuring out what I enjoy most along the way.
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/natashahans">GitHub</a>
-</p>
+### What I've been working on
 
----
+🎮 **PlayNext**  
+A game recommendation app I built for my final year project.
 
-### A little about me
+[View PlayNext →](https://github.com/natashahans/playnext)
 
-👩‍💻 I like turning ideas into things people can actually use.  
-🎨 I care about how things look, feel, and flow.  
-🌱 Still learning, still building, still figuring out what comes next.
+### Find me
 
-### Selected Work
-
-**PlayNext** — A smarter way to figure out what game to play next.  
-[View Project →](YOUR_PROJECT_LINK)
-
----
-
-<p align="center">
-  <i>Good design. Useful ideas. Better experiences.</i>
-</p>
+[LinkedIn](https://www.linkedin.com/in/natasha-hans) · [GitHub](https://github.com/natashahans)
