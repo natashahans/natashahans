@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Natasha Hans</h1>
 
-<!--
-**natashahans/natashahans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Designing ideas. Building them for the web.</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  I enjoy creating digital experiences that are simple, thoughtful, and easy to use.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/natashahans">GitHub</a>
+</p>
+
+---
+
+### A little about me
+
+👩‍💻 I like turning ideas into things people can actually use.  
+🎨 I care about how things look, feel, and flow.  
+🌱 Still learning, still building, still figuring out what comes next.
+
+### Selected Work
+
+**PlayNext** — A smarter way to figure out what game to play next.  
+[View Project →](YOUR_PROJECT_LINK)
+
+---
+
+<p align="center">
+  <i>Good design. Useful ideas. Better experiences.</i>
+</p>
