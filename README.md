@@ -29,3 +29,7 @@ I like making things that look good, feel simple, and actually work.
 <br>
 
 ---
+
+*learning · building · figuring it out along the way* ✦
+
+</div>
