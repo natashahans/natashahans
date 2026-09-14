@@ -25,13 +25,3 @@ I like making things that look good, feel simple, and actually work.
 
 🎮 **[PlayNext](https://github.com/natashahans/playnext)**  
 *my final year project — a game recommendation app built to make choosing what to play a little easier.*
-
-<br>
-
----
-
-<div align="center">
-
-*learning · building · figuring it out along the way* ✦
-
-</div>
