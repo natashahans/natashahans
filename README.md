@@ -30,6 +30,8 @@ I like making things that look good, feel simple, and actually work.
 
 ---
 
+<div align="center">
+
 *learning · building · figuring it out along the way* ✦
 
 </div>
